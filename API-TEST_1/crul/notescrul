@@ -1,0 +1,14 @@
+command line tool and library
+for transferring data with URLs
+(since 1998)
+cURL is a computer software project providing a library and command-line tool for transferring data using various network protocols. The name stands
+
+//
+usage for another server for comunicate
+like localhost your hosting server
+like google page hit krke data lana
+step
+curl_init();
+curl_setopt();  // take 3 parameter
+curl_exc();
+curl_close();
